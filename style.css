@@ -1,0 +1,32 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    padding: 20px 80px;
+}
+ul {
+    list-style-type: circle;
+}
+    lable {
+        font-size: 20px;
+        padding: 10px;
+    }
+    input {
+        font-size: 18px;
+        font-family:'Times New Roman', Times, serif;
+    }
+    li {
+        line-height: 0.75;
+        padding-top: 1rem;
+        font-size: 16;px ;
+    }
+    button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 6px 10px;
+        text-align: center;
+        font-size: 16px;
+        margin-left:6px ;
+        font-family:'Times New Roman', Times, serif;
+    }
